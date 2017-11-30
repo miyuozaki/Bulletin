@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+
+body {
+	background:#FFFFEE;
+
+	}
+
+table,td,th,tr {
+
+  border-collapse: collapse;
+  width: 700px;
+  height:50px;
+}
