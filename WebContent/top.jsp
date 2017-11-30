@@ -10,9 +10,7 @@
 	<title>ホーム</title>
 	<link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
-
 <body>
-
 <div class="title">
 <div id="headline">
 	<c:if test="${ not empty loginUser }">
